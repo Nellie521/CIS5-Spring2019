@@ -1,0 +1,141 @@
+/* 
+ * File:   main.cpp
+ * Author: Nellie Garcia
+ * Created on June 3rd, 2019, 1:58 PM
+ * Purpose:  Chutes and Ladders Project 2 Version 1
+ *           Arrays
+ */
+
+//System Libraries
+//Input/Output Library
+//C Standard Library - Random Number
+//Time Library
+//Format Library
+//Math Library
+//File Library
+//String Library
+//Namespace Standard
+
+//User Libraries
+
+//Global Constants, no Global Variables are allowed
+//Math/Physics/Conversions/Higher Dimensions - i.e. PI, e, etc...
+
+//Function Prototypes
+//Overloading
+//Output results function
+
+//Execution Begins Here!
+    //Set the random number seed
+    //Declare Variables
+    //Size of array
+    //Die input
+    //Number of players
+    //Place for player 1
+    //Place for player 2
+    //Counting first player's wins
+    //Counting second player's wins
+    //Used for defaulted argument
+    //Number of games
+    //Win/Lose for player 1
+    //Win/Lose for player 2
+    //End first player's turn
+    //End second player's turn
+    //Name of first player
+    //Name of second player
+    //Input file
+    //Output file
+    
+    //Initialize or input i.e. set variable values
+    //Function for determining nPlayer
+    //Array for board
+    //Set number of games
+    //Round to integer
+    /Open input file
+    //Open output file
+    
+    //Map inputs -> outputs
+        //One player
+
+        //Two players
+    
+    //Output results to file
+    
+    //Output results
+    
+    
+    //Exit stage right or left!
+
+//Start of game - Inputting nPlayer
+//Static variable inside function
+    //Set number of players
+    //Validating user input
+    //Used for defaulted argument
+
+//One player Chutes and Ladders Game
+    //For loop for number of games
+
+        //Reset place and wins
+
+        //Begin game
+        do {
+			//Dice roll
+            //Place before chutes or ladders
+            }
+
+            //Place cannot go over 100
+            //Backtrack place1
+
+            //Testing chutes and ladders
+
+            //Output place1
+
+            //Win Determination and Display Win
+
+//Two-player Chutes and Ladders Game
+    //For loop for number of games
+
+        //Reset place, wins, and ends
+
+        //Loop turns in order
+            //First player's turn
+				//Dice roll
+                //Place before chutes or ladders
+
+                //Place cannot go over 100
+                /Backtrack place1
+
+                //Testing chutes and ladders
+
+                //Output place1
+
+                //Win Determination - Ternary Operator
+
+                //End first player's turn
+
+                //End of game?
+
+            //Second player's turn
+				//Dice roll
+                //Place before chutes or ladders
+
+                //Place cannot go over 100
+
+                //Testing chutes and ladders
+
+                //Output place2
+
+                //Win Determination
+
+                //End second player's turn
+
+        //Display who wins
+
+//Boolean function to determine win
+//Pass by reference
+
+//Output results
+    
+    //Exit
+
+//Output an array - Similar to a board
