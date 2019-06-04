@@ -1,0 +1,120 @@
+/* 
+ * File:   main.cpp
+ * Author: Nellie Garcia
+ * Created on April 13th, 2019, 1:30 PM
+ * Purpose:  Chutes and Ladders Psuedocode
+ */
+
+//System Libraries
+//Input/Output Library
+//C Standard Library - Random Number
+//Time Library
+//Format Library
+//Math Library
+//File Library
+//String Library
+//Namespace std
+
+//User Libraries
+
+//Global Constants, no Global Variables are allowed
+//Math/Physics/Conversions/Higher Dimensions - i.e. PI, e, etc...
+
+//Function Prototypes
+
+//Execution Begins Here!
+    //Set the random number seed
+    
+    //Declare Variables
+    //Die input
+    //Number of players
+    //Place for player 1
+    //Place for player 2
+    //Counting first player's wins
+    //Counting second player's wins
+    //Number of games
+    //Win/Lose for player 1
+    //Win/Lose for player 2
+    //End first player's turn
+    //End second player's turn
+    //Name of first player
+    //Name of second player
+    //Input file
+    //Output file
+    
+    //Initialize or input i.e. set variable values
+    //Set number of players
+    //Validating user input
+    //Set number of games
+    //Round to integer
+    //Open input file
+    //Open output file
+    
+    //Map inputs -> outputs
+	//Determine game by using switch statement
+        //One player
+        
+                //Entering names
+                
+                //For loop for number of games
+
+                    //Reset place and wins
+
+                    //Begin game
+                    
+                        //Place cannot go over 100
+
+                        //Testing chutes and ladders
+						//Use if-else-if statements
+
+                        //Output place1
+
+                        //Win Determination
+
+                    //Display who wins
+					//Output the winner
+
+        //Two players
+		
+                //Entering names
+                
+                //For loop for number of games
+				
+                    //Reset place, wins, and ends
+
+                    //Loop turns in order
+					
+                        //First player's turn
+
+                            //Place cannot go over 100
+
+                            //Testing chutes and ladders
+
+                            //Output place1
+
+                            //Win Determination - Ternary Operator
+
+                            //End first player's turn
+
+                            //End of game?
+
+                        //Second player's turn
+
+                            //Place cannot go over 100
+
+                            //Testing chutes and ladders
+
+                            //Output place2
+
+                            //Win Determination
+
+                            //End second player's turn
+
+                    //Display who wins
+    
+    //Output results
+    
+    //Output results to file
+    
+    //Exit stage right or left!
+}
